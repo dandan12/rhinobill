@@ -1,0 +1,6 @@
+@rhinobill.api_HostAddress = http://localhost:5157
+
+GET {{rhinobill.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

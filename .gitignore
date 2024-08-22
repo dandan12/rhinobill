@@ -1,0 +1,15 @@
+## generic backend / os exclusions
+.DS_Store
+**/.DS_Store
+*.user
+*.suo
+.idea/
+.vscode/
+.vs/
+artifacts/
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+
+
+
